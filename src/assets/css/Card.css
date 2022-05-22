@@ -1,0 +1,13 @@
+.Card{
+    float: left;
+    margin-top: .6em;
+    margin-right: .8em;
+    padding: 0 0 0 4px ;
+    background-color: #282C34;
+    width: 170px;
+    height: 60px;
+    border-radius: 3px;
+}
+.TitleCard{
+    font-size: 23px;
+}
